@@ -21,7 +21,7 @@ Data covers 50 U.S. states over 104 weeks (2021–2023).
 
 ⚙️ Setup & Installation
 1. Clone the Repository
-git clone 
+git clone https://github.com/kumaraayus2000/Pandemic_Project/tree/main
 
 2. Install Dependencies
 pip install -q pandas transformers accelerate bitsandbytes matplotlib wordcloud scikit-learn seaborn huggingface_hub
